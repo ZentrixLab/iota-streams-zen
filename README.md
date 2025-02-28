@@ -28,6 +28,10 @@
 </p>
 
 ---
+**Work in Progress**   
+This is a modified version of IOTA Streams, enhanced with a new transport layer and identity management for compatibility with the Shimmer network.  
+* The **transport layer** has been replaced with a new implementation.  
+* **Identity management** is currently under development. 
 
 ## About
 
