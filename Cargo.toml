@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+  "spongos",
+  "lets",
+  "streams",
+]
+
+resolver = "2"
+
+[profile.dev]
+incremental = true
